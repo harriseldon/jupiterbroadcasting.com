@@ -1,8 +1,8 @@
 ---
 avatar: /images/people/fuzzy.jpg
 avatar_small: /images/people/fuzzy_small.jpg
-bio: null
-homepage: null
+bio: ''
+homepage: https://github.com/fuzzymistborn
 instagram: null
 linkedin: null
 title: FuzzyMistborn
